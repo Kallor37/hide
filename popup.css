@@ -79,7 +79,7 @@ input[type=checkbox] {
 	top: 9px;
 	z-index: 1;
 	left: 12px;
-	background: #ddd;
+	background: #DC143C;
 }
 
 #ONOFF:checked + label {
